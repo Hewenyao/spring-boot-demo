@@ -7,3 +7,6 @@ some springboot demo
 
 #### spring-boot-log4j2
 集成log4j2插件
+
+#### thymeleaf 
+springboot 整合thymeleaf 引擎
